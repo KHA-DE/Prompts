@@ -1,0 +1,30 @@
+
+1. Tree-of-Thoughts (ToT) - Der Experten-Simulator
+🌳 Führende KI-Forscher aus Stanford, Princeton und von DeepMind entdeckten: Diese Technik verbessert Problemlösungen um bis zu 25%! 
+Prompt: "Drei Experten diskutieren diese Frage. Jeder teilt seinen Denkschritt, dann die Gruppe. Wer falsch liegt, verlässt die Runde. Die Frage: [Dein Problem]"
+→ Die KI simuliert mehrere Denkwege gleichzeitig und findet optimale Lösungen
+
+2. Self-Consistency - Der Fehler-Eliminator
+🎯 Reduziert Fehlerquoten signifikant
+Prompt: "Beantworte diese Frage 5x mit unterschiedlichen Ansätzen: [Deine Frage]. Zeige dann die konsistenteste Antwort."
+→ Mehrfache Überprüfung = verlässlichere Ergebnisse
+
+3. RISEN Framework - Der Struktur-Architekt
+📊 Von Kyle Balmer entwickelt für konsistente Outputs.
+R - Rolle: "Als [Experte]"
+I - Instructions: "Erstelle [Was]"
+S - Steps: "1) ... 2) ... 3) ..."
+E - End Goal: "Ziel: [Ergebnis]"
+N - Narrowing: "Fokus auf [Grenzen]"
+
+4. Chain-of-Thought (CoT) - Der Denk-Verstärker
+💡 Bis zu 58% gesteigerte Genauigkeit und Qualität der Ergebnisse bei komplexen Aufgaben (Google Brain 2022)
+Füge einfach: "Lass uns Schritt für Schritt denken" ans Ende
+→ Zerlegt komplexe Probleme in logische Einzelschritte
+
+5. Meta-Prompting - Der Prompt-Optimierer
+🚀 Eine von Stanford-Forschern und OpenAI entwickelte Technik für perfekte Prompts
+Prompt: "Erstelle erst den optimalen Prompt für: [Deine Aufgabe]. Frage nach fehlenden Details, dann löse die Aufgabe."
+→ KI wird selbst zum Prompt-Engineer
+
+💎 Bonus-Tipp: Kombiniere ToT + Self-Consistency für kritische Entscheidungen. Die Ergebnisse sind spektakulär.

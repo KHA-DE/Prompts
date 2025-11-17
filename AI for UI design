@@ -1,0 +1,84 @@
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟭: 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰𝗶𝘁𝘆 𝗯𝗲𝗮𝘁𝘀 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗶𝘁𝘆
+Bad prompt: "Design a dashboard"
+
+Good prompt: "SaaS analytics dashboard, dark theme, 3-column layout, card-based metrics, Tailwind CSS"
+
+The AI needs constraints to be creative.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟮: 𝗦𝘁𝗲𝗮𝗹 𝗹𝗶𝗸𝗲 𝗮𝗻 𝗮𝗿𝘁𝗶𝘀𝘁 (𝗹𝗶𝘁𝗲𝗿𝗮𝗹𝗹𝘆)
+Don't ask AI to "be creative."
+
+Reference real products:
+"Design like Linear's issue view but for customer support tickets"
+
+AI understands patterns better than aesthetics.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟯: 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀 > 𝗳𝘂𝗹𝗹 𝗽𝗮𝗴𝗲𝘀
+Start with: "Create a pricing card component"
+
+Not: "Build me a pricing page"
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟰: 𝗧𝗵𝗲 𝗯𝘂𝘇𝘇𝘄𝗼𝗿𝗱 𝗵𝗮𝗰𝗸
+Generic words = generic results.
+
+Specific buzzwords = sharp designs.
+
+Instead of "modern": use "glassmorphism", "brutalist", "neubrutalism"
+
+Instead of "clean": use "minimal", "Swiss design", "monospace"
+
+Buzzwords are design shortcuts.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟱: 𝗔𝗹𝘄𝗮𝘆𝘀 𝗶𝗻𝗰𝗹𝘂𝗱𝗲 𝘁𝗵𝗲 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸
+"React component with Tailwind CSS" hits different than just "component."
+
+AI knows framework patterns.
+
+It'll give you proper JSX, class names, and structure.
+
+The more technical context, the better the output.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟲: 𝗜𝘁𝗲𝗿𝗮𝘁𝗲 𝗶𝗻 𝗽𝘂𝗯𝗹𝗶𝗰 (𝘄𝗶𝘁𝗵 𝗔𝗜)
+Don't hide in private chats.
+
+Build in Lovable. Share the process.
+
+Real feedback > perfect prompts.
+
+Users care about function over form anyway.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟳: 𝗠𝗼𝗯𝗶𝗹𝗲-𝗳𝗶𝗿𝘀𝘁 𝗽𝗿𝗼𝗺𝗽𝘁𝗶𝗻𝗴
+"Mobile-first responsive" isn't enough.
+
+Be explicit:
+"Mobile: single column, touch targets 44px minimum"
+"Desktop: 3-column grid, hover states"
+
+Design for thumbs first. Scale up second.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟴: 𝗧𝗵𝗲 𝟴𝟬/𝟮𝟬 𝗽𝗿𝗼𝗺𝗽𝘁 𝗿𝘂𝗹𝗲:
+80% of results come from these 4 elements:
+
+Component type
+Visual style
+Tech stack
+Layout structure
+
+Master the basics first.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟵: 𝗔𝗜 𝗰𝗮𝗻'𝘁 𝗿𝗲𝗮𝗱 𝘆𝗼𝘂𝗿 𝗺𝗶𝗻𝗱
+"Make it better" = vague feedback.
+
+"Increase contrast, larger text, more padding" = actionable.
+
+Treat AI like a junior designer.
+Be specific, patient, and iterative.
+
+𝗟𝗲𝘀𝘀𝗼𝗻 𝟭𝟬: 𝗟𝗮𝘆𝗲𝗿 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗺𝗽𝘁𝘀
+Don't try to get perfect results in one shot.
+
+First prompt: "Create a login form component"
+Second prompt: "Add error states and loading animations"
+Third prompt: "Make it mobile-responsive with proper spacing"
+
+Build complexity step by step. AI works better with focused, layered requests than one-shot prompts.

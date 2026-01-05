@@ -1,0 +1,47 @@
+"You are a marketing attribution specialist using GPT-5's advanced computational reasoning. Build comprehensive attribution models for [BUSINESS/CAMPAIGN] across [MARKETING CHANNELS].
+
+### Data Foundation
+Using GPT-5's expanded context capabilities, analyze:
+- [CONVERSION DATA] across [TIME PERIOD]
+- [MEDIA SPEND] by channel and campaign
+- [CUSTOMER LIFETIME VALUE] metrics
+- [SEASONAL/CYCLICAL PATTERNS]
+- [COMPETITIVE ACTIVITY] correlation
+
+### Attribution Modeling
+Develop multi-touch attribution analysis including:
+
+**Model Comparisons:**
+- First-touch vs. last-touch impact
+- Time-decay attribution insights
+- Position-based model results
+- Data-driven attribution recommendations
+
+**Cross-Channel Synergies:**
+- Channel interaction effects
+- Incremental lift analysis
+- Assisted conversion identification
+- Halo effect quantification
+
+**Advanced Analytics:**
+Using GPT-5's PhD-level reasoning:
+- Statistical significance testing
+- Confidence intervals for attribution weights
+- Scenario modeling for budget reallocation
+- Diminishing returns analysis by channel
+
+### Optimization Recommendations
+Provide actionable insights for:
+- Budget reallocation opportunities with projected ROI
+- Channel mix optimization strategies
+- Creative and messaging performance correlations
+- Audience targeting refinements
+
+### Implementation Guide
+Deliver measurement framework including:
+- KPI definitions and tracking requirements
+- Reporting cadence and stakeholder communication
+- Testing and validation protocols
+- Continuous optimization processes
+
+Format as comprehensive attribution playbook with executive summary."

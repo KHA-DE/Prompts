@@ -1,0 +1,10 @@
+Add everything required to deploy this as a real web app:
+
+- proper routing
+- minimal UI
+- error handling
+- loading states
+- environment variable setup
+- folder structure
+
+and deployment instructions for Vercel/Fly.io.”** (these are the apps where it can be deployed)
